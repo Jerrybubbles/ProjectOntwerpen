@@ -1,0 +1,7 @@
+Added Component: Designator=K2(K2)
+Added Pin To Net: NetName=GND Pin=K2-SHIELD1
+Added Pin To Net: NetName=GND Pin=K2-SHIELD2
+Added Pin To Net: NetName=GND Pin=K2-SHIELD3
+Added Pin To Net: NetName=GND Pin=K2-SHIELD4
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Net: Name=NetF1_1
