@@ -1,0 +1,1477 @@
+[ AutoCAD - Fri May 15 04:31:02 2020  ]----------------------------------------
+
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_22591_035850e8.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _polygon Enter number of sides <4>: 3
+
+Specify center of polygon or [Edge]: 
+Enter an option [Inscribed in circle/Circumscribed about circle] <I>: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 5
+
+Specify next point or [Close/eXit/Undo]: 10
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+Command: POLYLINE
+PLINE 
+Specify start point: *Cancel*
+
+Command: PE
+PEDIT 
+Select polyline or [Multiple]: 
+Object selected is not a polyline
+
+Select polyline or [Multiple]: 
+Object selected is not a polyline
+Do you want to turn it into one? <Y> n
+
+Select polyline or [Multiple]: m
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 
+
+Convert Lines, Arcs and Splines to polylines [Yes/No]? <Y> 
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: C
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: C
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: C
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: J
+
+Join Type = Extend
+Enter fuzz distance or [Jointype] <0.000>: 
+
+No valid objects selected.
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: C
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: S
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: S
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: C
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: PE
+PEDIT 
+Select polyline or [Multiple]: m
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 
+
+Convert Lines, Arcs and Splines to polylines [Yes/No]? <Y> 
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: J
+
+Join Type = Extend
+Enter fuzz distance or [Jointype] <0.000>: 
+
+0 segments added to polyline
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: J
+
+Join Type = Extend
+Enter fuzz distance or [Jointype] <0.000>: 
+
+0 segments added to polyline
+
+Enter an option [Close/Open/Join/Width/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _join 
+Select source object or multiple objects to join at once: 1 found
+Select objects to join: 1 found, 2 total
+Select objects to join: 1 found, 3 total
+Select objects to join: 
+
+0 objects joined, 3 objects discarded from the operation
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 0.000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: *Cancel*
+
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 0.000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_22591_035850e8.sv$ ...
+
+Command: 
+Command: CONVERTPOLY
+Enter polyline conversion option [Heavy/Light] <Light>: L
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+1 polyline objects converted.
+
+Command: CONVERTPOLY
+Enter polyline conversion option [Heavy/Light] <Light>: H
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+2 polyline objects converted.
+
+Command: CONVERTPOLY
+Enter polyline conversion option [Heavy/Light] <Light>: H
+
+Select objects: 1 found
+
+Select objects: 
+1 polyline objects converted.
+
+Command: JOIN
+
+Select source object or multiple objects to join at once: 1 found
+Select objects to join: 1 found, 2 total
+Select objects to join: 1 found, 3 total
+Select objects to join: 
+
+2 objects converted to 1 3D polyline, 1 object discarded from the operation
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 10
+
+Command: _u INTELLIZOOM 
+Command: _u RECTANG GROUP 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 15
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 5
+
+
+Command: 
+Command: 
+Command: _QSAVE 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _CHAMFEREDGE Distance1 = 1.000, Distance2 = 1.000
+Select an edge or [Loop/Distance]: 
+Select another edge on the same face or [Loop/Distance]: 
+Select another edge on the same face or [Loop/Distance]: 
+Select another edge on the same face or [Loop/Distance]: *Cancel*
+
+
+No edges to chamfer.
+
+Command: 
+Command: 
+Command: _CHAMFEREDGE Distance1 = 1.000, Distance2 = 1.000
+Select an edge or [Loop/Distance]: 
+Select another edge on the same face or [Loop/Distance]: D
+
+Specify Distance1 or [Expression] <1.000>: 5
+
+Specify Distance2 or [Expression] <1.000>: 5
+
+Select another edge on the same face or [Loop/Distance]: 
+
+
+Press Enter to accept the chamfer or [Distance]: 
+Resuming CHAMFEREDGE command.
+
+Press Enter to accept the chamfer or [Distance]: 
+Resuming CHAMFEREDGE command.
+
+Press Enter to accept the chamfer or [Distance]:*Cancel*
+
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <1>: 0 
+Command:  
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <0>: 1 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <1>: 0 
+Command: 
+Command: 
+Command: _CHAMFEREDGE Distance1 = 1.000, Distance2 = 1.000
+Select an edge or [Loop/Distance]: 
+Select another edge on the same face or [Loop/Distance]: D
+
+Specify Distance1 or [Expression] <1.000>: 5
+
+Specify Distance2 or [Expression] <1.000>: 5
+
+Select another edge on the same face or [Loop/Distance]: 
+
+
+Press Enter to accept the chamfer or [Distance]:
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _FILLETEDGE 
+Radius = 1.000
+Select an edge or [Chain/Loop/Radius]: *Cancel*
+
+0 edge(s) selected for fillet.
+
+No fillet to be computed.
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]:  
+Resuming LINE command.
+
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: 25
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: _u RECTANG GROUP 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _mirror3d  
+Specify first point of mirror plane (3 points) or 
+[Object/Last/Zaxis/View/XY/YZ/ZX/3points] <3points>: Specify second point on mirror plane: Specify third point on mirror plane: 
+Delete source objects? [Yes/No] <N>: N
+
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _move 
+Select objects: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _mirror3d  
+Specify first point of mirror plane (3 points) or 
+[Object/Last/Zaxis/View/XY/YZ/ZX/3points] <3points>: Specify second point on mirror plane: Specify third point on mirror plane: 
+Delete source objects? [Yes/No] <N>: N
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: 
+Command: 
+Command: _QSAVE 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _copy 3 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 1
+
+Specify next point or [eXit/Undo]: 1
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 1
+
+Specify next point or [eXit/Undo]: 1
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <5.000>: 5
+
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 2 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+2 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <5.000>: 
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _copy 4 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_18966_1b82a801.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point:  
+Resuming LINE command.
+
+Specify first point: *Cancel*
+
+Command: 
+Command: _QSAVE 
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point:  
+Resuming LINE command.
+
+Specify first point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 15
+
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: _d Specify diameter of circle: 10
+
+Command: _u INTELLIZOOM 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <5.000>: _d Specify diameter of circle <10.000>: 8
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: 8
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 5 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+2 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-49.384>: 
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _FILLETEDGE 
+Radius = 1.000
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]:  
+Resuming FILLETEDGE command.
+
+Select an edge or [Chain/Loop/Radius]:  
+Resuming FILLETEDGE command.
+
+Select an edge or [Chain/Loop/Radius]:  
+Resuming FILLETEDGE command.
+
+Select an edge or [Chain/Loop/Radius]:  
+Resuming FILLETEDGE command.
+
+Select an edge or [Chain/Loop/Radius]:  
+Resuming FILLETEDGE command.
+
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+Select an edge or [Chain/Loop/Radius]: 
+
+8 edge(s) selected for fillet.
+
+Press Enter to accept the fillet or [Radius]:R
+Specify Radius or [Expression] <1.000>: 2
+
+Press Enter to accept the fillet or [Radius]:R
+Specify Radius or [Expression] <2.000>: 5
+
+Press Enter to accept the fillet or [Radius]:
+
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_12796_44eeb2f9.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 9 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _move 
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 3 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Checking 595 intersections... 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _face 
+Enter a face editing option
+[Extrude/Move/Rotate/Offset/Taper/Delete/Copy/coLor/mAterial/Undo/eXit] <eXit>: _extrude 
+Select faces or [Undo/Remove]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: 8
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-8.449>: 
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]:  
+Resuming CIRCLE command.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: 8
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-40.580>: 
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: 8
+
+Command: 
+Command:  
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_12796_44eeb2f9.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <4.000>: _d Specify diameter of circle <8.000>: 8
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <42.953>: 
+
+Command:  
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _QSAVE 
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_17788_cfb9c57c.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_17788_cfb9c57c.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _STYLE 
+Command: 
+Command: 
+Command: _QSAVE 
+Command: 
+Command: 
+Command: _mtext 
+Current text style:  "Arial"  Text height:  3102.842  Annotative:  No
+Specify first corner:  
+Resuming MTEXT command.
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 
+
+Command: 
+Command: 
+Command: _mtext 
+Current text style:  "Arial"  Text height:  3102.842  Annotative:  No
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 
+
+Command: 
+Command: 
+Command: _mtext 
+Current text style:  "Arial"  Text height:  3102.842  Annotative:  No
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 
+
+Command: 
+Command: 
+Command: _text 
+Current text style:  "Arial"  Text height:  3102.842  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <3102.842>: 0
+
+Value must be positive and nonzero.
+
+Specify height <3102.842>: 1
+
+Specify rotation angle of text <90.00>: 
+Command: *Cancel*
+
+Command: _u TEXT GROUP 
+Command: 
+Command: 
+Command: _text 
+Current text style:  "Arial"  Text height:  3102.842  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <3102.842>: 1
+
+Specify rotation angle of text <90.00>: 
+Command: 
+Command: 
+Command: _QSAVE 
+Window Lasso  Press Spacebar to cycle options
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _scale 2 found
+
+Specify base point: 
+Specify scale factor or [Copy/Reference]: 
+Command: 
+Command: TXTEXP
+
+Initializing...
+Select text to be EXPLODED: 1 found
+
+1 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: TXTEXP
+
+Select text to be EXPLODED: 1 found
+
+1 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+125 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-74.311>: 0.2
+
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _union 
+Select objects: Specify opposite corner: 125 found
+
+Select objects: 
+
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _scale 1 found
+
+Specify base point: 
+Specify scale factor or [Copy/Reference]: 
+Too many objects selected for INTERSECT
+
+Command: 
+Command: 
+Command: _move 
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Checking 703 intersections... 
+Specify second point or <use first point as displacement>: 
+Too many objects selected for INTERSECT
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Checking 595 intersections... 
+Specify next point or [Undo]: 1
+
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Checking 1128 intersections... 
+Specify next point or [Undo]: 1
+
+Specify next point or [eXit/Undo]: 1
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 2 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Checking 595 intersections... 
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_24343_53553f29.sv$ ...
+
+Command: 
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_24343_53553f29.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _QSAVE 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _union 
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _union 
+Select objects: Specify opposite corner: 8 found
+
+Select objects: 
+
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Checking 666 intersections... 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: _QSAVE 
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _QSAVE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Automatic save to C:\Users\Michiel\AppData\Local\Temp\SoldeerstationV2_1_13540_35e8d0f9.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _Options 
